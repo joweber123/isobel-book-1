@@ -3979,6 +3979,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/bookdesign.jpg": {
+		"ft": 16384,
+		"iS": 31913,
+		"oA": 0,
+		"oAP": "\/img\/bookdesign.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/bookex.jpg": {
+		"ft": 16384,
+		"iS": 46983,
+		"oA": 0,
+		"oAP": "\/img\/bookex.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bookex.png": {
 		"ft": 32768,
 		"iS": 232026,
@@ -4000,6 +4020,37 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/bookexvector.png": {
+		"ft": 32768,
+		"iS": 9281,
+		"oA": 0,
+		"oAP": "\/img\/bookexvector.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/bookexvector.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/bookexvector.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/bookexvector2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/bookexvector2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/img\/bookinto.png": {
 		"ft": 32768,
