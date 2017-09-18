@@ -5417,7 +5417,7 @@ button.close {
   .carousel-inner > .next,
   .carousel-inner > .prev {
     position: absolute;
-    top: 50%;
+    top: 30%;
     width: 100%; }
   .carousel-inner > .next {
     left: 100%; }
@@ -8132,7 +8132,7 @@ h1 {
   margin: 20px; }
 
 .item {
-  top: 50%; }
+  top: 30%; }
 
 .page-nav-item {
   padding: 0 5vw;
