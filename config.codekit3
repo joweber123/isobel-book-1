@@ -4023,14 +4023,24 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/books.jpg": {
+		"ft": 16384,
+		"iS": 126412,
+		"oA": 0,
+		"oAP": "\/img\/books.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/books.png": {
 		"ft": 32768,
 		"iS": 196608,
 		"oA": 0,
 		"oAP": "\/img\/books.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
