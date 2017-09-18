@@ -8378,3 +8378,9 @@ h1 {
 
 .overflow-hidden {
   overflow-y: hidden; }
+
+.extra-line-spacing {
+  line-height: inherit; }
+  @media (min-width: 1200px) {
+    .extra-line-spacing {
+      line-height: 1.8; } }

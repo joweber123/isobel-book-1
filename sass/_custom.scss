@@ -292,3 +292,11 @@ h1{
 .modal-padding{
 
 }
+
+.extra-line-spacing{
+  line-height: inherit;
+  @media (min-width: 1200px) {
+      line-height: 1.8;
+
+    }
+}
