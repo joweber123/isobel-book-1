@@ -5417,7 +5417,7 @@ button.close {
   .carousel-inner > .next,
   .carousel-inner > .prev {
     position: absolute;
-    top: 20%;
+    top: 50%;
     width: 100%; }
   .carousel-inner > .next {
     left: 100%; }
@@ -8132,7 +8132,7 @@ h1 {
   margin: 20px; }
 
 .item {
-  top: 20%; }
+  top: 50%; }
 
 .page-nav-item {
   padding: 0 5vw;
@@ -8187,7 +8187,10 @@ h1 {
     box-shadow: 1px 1px 5px #888888; }
 
 .carousel {
-  height: 50vh; }
+  height: 80vh; }
+  @media (min-width: 1200px) {
+    .carousel {
+      height: 50vh; } }
   .carousel .carousel-inner {
     height: 100%; }
     .carousel .carousel-inner .item {
