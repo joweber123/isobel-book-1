@@ -5417,8 +5417,12 @@ button.close {
   .carousel-inner > .next,
   .carousel-inner > .prev {
     position: absolute;
-    top: 50%;
+    top: 30%;
     width: 100%; }
+    @media (min-width: 768px) {
+      .carousel-inner > .next,
+      .carousel-inner > .prev {
+        top: 40%; } }
   .carousel-inner > .next {
     left: 100%; }
   .carousel-inner > .prev {
@@ -8132,7 +8136,10 @@ h1 {
   margin: 20px; }
 
 .item {
-  top: 50%; }
+  top: 30%; }
+  @media (min-width: 768px) {
+    .item {
+      top: 40%; } }
 
 .page-nav-item {
   padding: 0 5vw;
@@ -8188,7 +8195,7 @@ h1 {
 
 .carousel {
   height: 80vh; }
-  @media (min-width: 1200px) {
+  @media (min-width: 768px) {
     .carousel {
       height: 50vh; } }
   .carousel .carousel-inner {

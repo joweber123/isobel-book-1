@@ -63,8 +63,13 @@
   > .next,
   > .prev {
     position: absolute;
-    top: 50%;
+    top: 30%;
+
     width: 100%;
+    @media (min-width: 768px){
+      top: 40%;
+
+    }
   }
 
   > .next {
