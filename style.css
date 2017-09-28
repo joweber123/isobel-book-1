@@ -8119,7 +8119,7 @@ h1 {
   opacity: .8; }
 
 .carousel {
-  background-image: url("/isobel-book-1/img/background-flowers.png"); }
+  background-image: url("img/background-flowers.png"); }
 
 .carousel .item img {
   margin: 0 auto;
@@ -8168,7 +8168,7 @@ h1 {
     border-width: 2px; }
 
 .nav-container {
-  background-image: url("/isobel-book-1/img/background-flowers.png");
+  background-image: url("img/background-flowers.png");
   padding: 10px 0; }
 
 .biography {
@@ -8206,7 +8206,7 @@ h1 {
 .section-c {
   padding: 60px 0;
   text-align: center;
-  background-image: url("/isobel-book-1/img/background-flowers.png");
+  background-image: url("img/background-flowers.png");
   margin-top: 20px; }
   .section-c .btn-primary {
     background-color: #345755;
@@ -8229,7 +8229,7 @@ h1 {
 
 .footer {
   padding: 30px 0;
-  background-image: url("/isobel-book-1/img/footer.png");
+  background-image: url("img/footer.png");
   background-size: cover;
   color: #ffffff; }
   .footer #designEmail {
