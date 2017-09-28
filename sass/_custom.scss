@@ -28,7 +28,7 @@ h1{
 }
 
 .carousel{
-    background-image: url("/isobel-book-1/img/background-flowers.png");
+    background-image: url("img/background-flowers.png");
 }
 
 .carousel .item img{
@@ -85,7 +85,7 @@ h1{
   }
 }
 .nav-container{
-  background-image: url("/isobel-book-1/img/background-flowers.png");
+  background-image: url("img/background-flowers.png");
   padding: 10px 0;
 }
 
@@ -136,7 +136,7 @@ h1{
 .section-c{
   padding: 60px 0;
   text-align: center;
-  background-image: url("/isobel-book-1/img/background-flowers.png");
+  background-image: url("img/background-flowers.png");
   margin-top: 20px;
   .btn-primary{
     background-color: $highlight-color;
@@ -155,7 +155,7 @@ h1{
 }
 
 .title-bar{
-  background: url(../img/showcase.jpg) no-repeat 0 -300px;
+  background: url(img/showcase.jpg) no-repeat 0 -300px;
   padding-bottom: 10px;
   border-bottom: 4px solid $main-color;
 }
@@ -165,7 +165,7 @@ h1{
 }
 .footer{
   padding: 30px 0;
-  background-image: url("/isobel-book-1/img/footer.png");
+  background-image: url("img/footer.png");
   background-size: cover;
   color: set-text-color($main-color);
   #designEmail{
