@@ -15,6 +15,16 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
+	"\/bg.jpg": {
+		"ft": 16384,
+		"iS": 439144,
+		"oA": 0,
+		"oAP": "\/bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/bower_components\/bootstrap-sass\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -3148,6 +3158,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/indexreal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/indexreal.html",
 		"oF": 0
 		},
 	"\/sass\/_custom.scss": {
