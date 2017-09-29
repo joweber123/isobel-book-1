@@ -2840,6 +2840,12 @@
 		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -3086,6 +3092,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/flower.png": {
+		"ft": 32768,
+		"iS": 1579,
+		"oA": 0,
+		"oAP": "\/img\/flower.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/flowers.jpg": {
 		"ft": 16384,
 		"iS": 80160,
@@ -3236,7 +3253,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 518340129,
-	"displayValue": "isobel_bootstrap",
+	"displayValue": "isobel-book-1",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
 	"lastBuiltDate": 518579828
