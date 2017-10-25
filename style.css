@@ -8118,6 +8118,12 @@ h1 {
   cursor: pointer;
   opacity: .8; }
 
+.otherbook:hover {
+  -webkit-transform: perspective(900px) rotateY(5deg);
+          transform: perspective(900px) rotateY(5deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
+
 .carousel {
   background-image: url("img/background-flowers.png"); }
 
@@ -8174,6 +8180,11 @@ h1 {
 .biography {
   padding-top: 20px;
   opacity: 0; }
+
+@media (min-width: 992px) {
+  .bookcover {
+    -webkit-transform: perspective(600px) rotateY(10deg);
+            transform: perspective(600px) rotateY(10deg); } }
 
 .showcase {
   padding: 20px 0px; }
@@ -8368,6 +8379,14 @@ h1 {
   border: 1px solid #888;
   width: 80%; }
 
+.modal-content-child {
+  padding: 20px;
+  line-height: 1.6;
+  margin: 0; }
+  @media (min-width: 768px) {
+    .modal-content-child {
+      padding: 20px 40px; } }
+
 /* The Close Button */
 .close {
   color: #aaaaaa;
@@ -8388,6 +8407,32 @@ h1 {
 
 .overflow-hidden {
   overflow-y: hidden; }
+
+.flex-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+
+.modal-child {
+  width: 45%;
+  height: 45%; }
+  .modal-child:hover {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95);
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out; }
+  @media (min-width: 768px) {
+    .modal-child {
+      width: 43%;
+      height: 43%; } }
+  @media (min-width: 1200px) {
+    .modal-child {
+      width: 35%;
+      height: 35%; } }
 
 .extra-line-spacing {
   line-height: inherit; }

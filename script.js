@@ -3,6 +3,10 @@ $(window).ready(function(){
   smoothScroll(500);
   modalcontent1();
   modalcontent2();
+  modalcontent3();
+  modalcontent4();
+  modalcontent5();
+  modalcontent6();
 
 
 });
@@ -77,6 +81,48 @@ function modalcontent2(){
 	});
 }
 
+function modalcontent3(){
+	$('#modalcta3').click(function(){
+		$('#myModal3').addClass('block');
+    $('body').addClass('overflow-hidden');
+	});
+  $('.close').click(function(){
+		$('#myModal3').removeClass('block');
+    $('body').removeClass('overflow-hidden');
+	});
+}
+function modalcontent4(){
+	$('#modalcta4').click(function(){
+		$('#myModal4').addClass('block');
+    $('body').addClass('overflow-hidden');
+	});
+  $('.close').click(function(){
+		$('#myModal4').removeClass('block');
+    $('body').removeClass('overflow-hidden');
+	});
+}
+
+function modalcontent5(){
+	$('#modalcta5').click(function(){
+		$('#myModal5').addClass('block');
+    $('body').addClass('overflow-hidden');
+	});
+  $('.close').click(function(){
+		$('#myModal5').removeClass('block');
+    $('body').removeClass('overflow-hidden');
+	});
+}
+
+function modalcontent6(){
+	$('#modalcta6').click(function(){
+		$('#myModal6').addClass('block');
+    $('body').addClass('overflow-hidden');
+	});
+  $('.close').click(function(){
+		$('#myModal6').removeClass('block');
+    $('body').removeClass('overflow-hidden');
+	});
+}
 // When the user clicks anywhere outside of the modal, close it
 
 
