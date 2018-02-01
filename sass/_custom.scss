@@ -34,10 +34,12 @@ h1{
 }
 
 
-.carousel{
+.reviews{
     background-image: url("img/background-flowers.png");
 }
-
+.divider-line{
+  
+}
 .carousel .item img{
     margin: 0 auto; /* Align slide image horizontally center */
 }
@@ -52,13 +54,7 @@ h1{
 	margin: 20px;
 }
 
-.item{
-  top: 30%;
-  @media (min-width: 768px){
-    top: 40%;
 
-  }
-}
 
 
 .page-nav-item{
@@ -357,3 +353,4 @@ h1{
 
     }
 }
+

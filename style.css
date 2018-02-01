@@ -8124,7 +8124,7 @@ h1 {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 
-.carousel {
+.reviews {
   background-image: url("img/background-flowers.png"); }
 
 .carousel .item img {
@@ -8140,12 +8140,6 @@ h1 {
 
 .bs-example {
   margin: 20px; }
-
-.item {
-  top: 30%; }
-  @media (min-width: 768px) {
-    .item {
-      top: 40%; } }
 
 .page-nav-item {
   padding: 0 5vw;
